@@ -5,7 +5,7 @@
 Desktop GUI to add, edit, delete, search, filter and export student records with per-course marks.
 Data is stored in SQLite (`modern_students.db`, created automatically with 5 sample students).
 
-**Name:** Tashi Lhamo  **Roll No:** 27  **Programme:** B.Ed IT (D)  **Module:** PRG304
+**Name:** Dorji Lhazom  **Roll No:** 4  **Programme:** B.Ed IT (A)  **Module:** PRG304
 
 ## Requirements
 - Python 3.10 or newer
